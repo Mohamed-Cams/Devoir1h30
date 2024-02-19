@@ -1,0 +1,4 @@
+init A
+init B
+init A
+B avec i=4 et A avec i=5
